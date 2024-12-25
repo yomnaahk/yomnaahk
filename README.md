@@ -6,17 +6,17 @@
   <img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="60px" width="60px" alt="LinkedIn" align="right"target="_blank"/></a>
 
 
- <h3 align="center" > I am Yomna, a self-motivated tech enthusiast and Mobile developer 👩‍🏫 </h3>
+ 
 
 ***
 
 **About me**.
 
 - 📝 I am currently learning **flutter**.
-- 📱 I graduated from Track **Mobile Development at DEPI**
+- 📱 **Mobile Development DEPI** graduated 
 - 👩🏻‍🎓 **BSc. Computers and Informatics, Suez Canal University**
-- 📧 How to reach me  [here](mailto:yomnakerir@gmail.com)
-- **🌐 Know about my experiences [Resume](https://drive.google.com/file/d/1TDkAqlgCHCpDlb-nCszgrdmSkjBHbHCq/view?usp=drive_link)**
+- 📧 Email [here](mailto:yomnakerir@gmail.com)
+- **🌐 Resume [Resume](https://drive.google.com/file/d/1TDkAqlgCHCpDlb-nCszgrdmSkjBHbHCq/view?usp=drive_link)**
 
 <br> 
 

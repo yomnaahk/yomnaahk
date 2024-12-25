@@ -13,7 +13,7 @@
 **About me**.
 
 - 📝 I am currently learning **flutter**.
-- 📱 **Mobile Development DEPI** graduated 
+- 📱 **Mobile Development DEPI** graduate
 - 👩🏻‍🎓 **BSc. Computers and Informatics, Suez Canal University**
 - 📧 Email [here](mailto:yomnakerir@gmail.com)
 - **🌐 Resume [Resume](https://drive.google.com/file/d/1TDkAqlgCHCpDlb-nCszgrdmSkjBHbHCq/view?usp=drive_link)**

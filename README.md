@@ -10,10 +10,10 @@
 
 ***
 
-I am a mobile developer 😎.
+**About me**.
 
-- 🤓 I am currently learning flutter.
-- 📫 How to reach me: Send me an email [here](mailto:yomnakerir@gmail.com)
+- 📝 I am currently learning flutter.
+- 📧 How to reach me: Send me an email [here](mailto:yomnakerir@gmail.com)
 - **🌐 Check my [Resume](https://drive.google.com/file/d/1TDkAqlgCHCpDlb-nCszgrdmSkjBHbHCq/view?usp=drive_link)**
 
 

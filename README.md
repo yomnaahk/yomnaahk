@@ -12,7 +12,7 @@
 
 **About me**.
 
-- 📝 I am currently learning **flutter**.
+- 📝 I am currently coding **Android Projects**.
 - 📱 **Mobile Development DEPI** graduate
 - 👩🏻‍🎓 **BSc. Computers and Informatics**, Suez Canal University
 - 📧 **Email [here](mailto:yomnakerir@gmail.com)**
